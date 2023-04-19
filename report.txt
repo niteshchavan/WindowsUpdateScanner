@@ -1,0 +1,13 @@
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Searching for updates...
+
+List of applicable items on the machine when using wssuscan.cab:
+
+1> Security Update for SQL Server 2017 RTM GDR (KB5014354)
+2> Security Update for SQL Server 2017 RTM CU (KB5014553)
+3> Windows Malicious Software Removal Tool x64 - v5.108 (KB890830)
+4> 2022-12 Cumulative Update for .NET Framework 3.5, 4.8 and 4.8.1 for Windows 10 Version 22H2 for x64 (KB5021089)
+5> 2022-12 Security Update for Windows 10 Version 22H2 for x64-based Systems (KB5012170)
+6> 2022-12 Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5021233)
